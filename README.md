@@ -14,7 +14,7 @@ Copyright
 Sämtliche Quellcodes sind lizenziert unter
 [_Creative Commons Namensnennung 4.0 International_](http://creativecommons.org/licenses/by/4.0/)
 
-© 2017 – 2020 Dennis Schulmeister-Zimolong im Auftrag der DHBW Karlsruhe <br/>
+© 2017 – 2020 Marc Simon als Student der DHBW Karlsruhe <br/>
 
 E-Mail: [dhbw@windows3.de](mailto:dhbw@windows3.de) <br/>
 Webseite: https://www.wpvs.de
